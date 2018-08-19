@@ -1,2 +1,2 @@
 mlag:
-  - { devic: "mlag_devices", network: 10.20.30.40/32}
+  - { device: "mlag_devices", network: 10.20.30.40/32}
