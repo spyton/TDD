@@ -1,0 +1,6 @@
+{
+  "test_fixtures.py::test_capital_case": true, 
+  "test_fixtures.py::test_mlag[dictionary0]": true, 
+  "test_fixtures.py::test_mlag[dictionary1]": true, 
+  "test_fixtures.py::test_raises_exception_on_non_string_arguments": true
+}

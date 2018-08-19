@@ -1,0 +1,12 @@
+# schema
+type: map
+mapping: 
+  mlag:
+    type: seq 
+    sequence:
+      - type: map 
+        mapping: 
+          device:
+            type: str
+          network:
+            type: any
